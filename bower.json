@@ -1,0 +1,34 @@
+{
+  "name": "angular-lowerize-filter",
+  "version": "1.0.0",
+  "description": "AngularJS filter to convert strings to lower case replacing non-alphanumeric characters.",
+  "main": "lowerize.js",
+  "authors": [
+    "Pablo Villoslada Puigcerber <pablo85@gmail.com> (http://pablovilloslada.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Puigcerber/angular-lowerize-filter.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "lowerize",
+    "filter",
+    "lowercase",
+    "Firebase",
+    "AngularFire"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "karma.conf.js",
+    "**/*.json",
+    "index.js"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9"
+  }
+}
